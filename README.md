@@ -85,30 +85,4 @@ python src/01_load_to_sqlite.py
 python src/02_forecast_and_variance.py
 
 
-Tech Stack
 
-Python
-
-pandas
-
-NumPy
-
-SQLite
-
-SQL
-
-Excel (openpyxl)
-
-Notes
-
-This project is intentionally simple and focuses on:
-
-Clean SQL usage
-
-Reproducible forecasting logic
-
-Automated variance reporting
-
-Clear FP&A-style structure
-
-It can be extended with driver-based models, dashboards, or cloud data warehouses.
